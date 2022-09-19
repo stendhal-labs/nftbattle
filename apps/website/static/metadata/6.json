@@ -1,0 +1,15 @@
+{
+	"name": "Emotion and frustration",
+	"description": "Digital artwork created during NFC Lisbon On April, 5th 2022 for the third of the NFTBattles.",
+	"image": "ar://DrkhjnuaKg1Jt-NP1-vZB759jmuLdMprQ5s3X1da6rI",
+	"attributes": [{
+		"trait_type": "Artist",
+		"value": "IZI DESIGN"
+	}, {
+		"trait_type": "Event",
+		"value": "NFC Lisbon"
+	}, {
+		"trait_type": "Battle",
+		"value": "NFCLisbon#3"
+	}]
+}

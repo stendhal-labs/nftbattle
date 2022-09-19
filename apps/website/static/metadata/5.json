@@ -1,0 +1,15 @@
+{
+	"name": "Frustration & emotions",
+	"description": "Digital artwork created during NFC Lisbon On April, 5th 2022 for the third of the NFTBattles.",
+	"image": "ar://_z6tq9OqpoAWcMhhPcJYNqyWQVUk3sxxOWRqveJm_L0",
+	"attributes": [{
+		"trait_type": "Artist",
+		"value": "Alexandre Beretta"
+	}, {
+		"trait_type": "Event",
+		"value": "NFC Lisbon"
+	}, {
+		"trait_type": "Battle",
+		"value": "NFCLisbon#3"
+	}]
+}

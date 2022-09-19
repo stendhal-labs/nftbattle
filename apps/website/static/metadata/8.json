@@ -1,0 +1,15 @@
+{
+	"name": "The parett0 gl1tch",
+	"description": "Digital artwork created during NFC Lisbon On April, 5th 2022 for the final of the NFTBattles.\\n\\nThanks for bidding <3",
+	"image": "ar://W626fiJYTelGIiYlsqolqvaS8CZqlEwzpcDOIKsyOfM",
+	"attributes": [{
+		"trait_type": "Artist",
+		"value": "Popeye"
+	}, {
+		"trait_type": "Event",
+		"value": "NFC Lisbon"
+	}, {
+		"trait_type": "Battle",
+		"value": "NFCLisbon#Final"
+	}]
+}

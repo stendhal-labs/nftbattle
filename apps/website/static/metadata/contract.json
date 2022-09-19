@@ -1,0 +1,8 @@
+{
+	"name": "NFTBattles",
+	"description": "NFTBattles are live battles between 2 or more artists who compete to create the best NFT in the same amount of time, according to a theme given by the moderator when the battle starts.",
+	"image": "https://nftbattles.live/images/nft-placeholder.png",
+	"external_link": "https://nftbattles.live",
+	"seller_fee_basis_points": 750,
+	"fee_recipient": "0x1E8086f2a4fA54E78E76213BDA64EC41a1154888"
+}

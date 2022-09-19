@@ -1,0 +1,15 @@
+{
+	"name": "The circle of life",
+	"description": "Digital artwork created during NFC Lisbon On April, 4th 2022 for the first of the NFTBattles.",
+	"image": "ar://dKB-xNzUyHYWQbHIIbHIblYxZbRKjfoZVyE86DNYd70",
+	"attributes": [{
+		"trait_type": "Artist",
+		"value": "Alexandre Beretta"
+	}, {
+		"trait_type": "Event",
+		"value": "NFC Lisbon"
+	}, {
+		"trait_type": "Battle",
+		"value": "NFCLisbon#1"
+	}]
+}

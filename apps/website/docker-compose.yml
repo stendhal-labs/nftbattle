@@ -1,0 +1,22 @@
+version: '3'
+
+services:
+  node-battles:
+    image: 'node:latest'
+    container_name: node-battles
+    restart: always
+    command: 'node index.js'
+    user: 'node'
+    working_dir: /home/node/app
+    ports:
+      - '3000:3000'
+    environment:
+      - VIRTUAL_HOST=node.nftbattles.live
+      - LETSENCRYPT_HOST=node.nftbattles.live
+    volumes:
+      - ./public:/home/node/app
+
+networks:
+  default:
+    external:
+      name: nginx-proxy

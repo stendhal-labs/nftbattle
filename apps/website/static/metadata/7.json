@@ -1,0 +1,15 @@
+{
+	"name": "NFT Battle - NFC Lisbon #7",
+	"description": "Digital artwork created during NFC Lisbon On April, 5th 2022 for the final of the NFTBattles.\\n\\nIt will be updated as soon as the artwork and all the metadata are received.",
+	"image": "https://nftbattles.live/images/nft-placeholder.png",
+	"attributes": [{
+		"trait_type": "Artist",
+		"value": "Skio"
+	}, {
+		"trait_type": "Event",
+		"value": "NFC Lisbon"
+	}, {
+		"trait_type": "Battle",
+		"value": "NFCLisbon#Final"
+	}]
+}
